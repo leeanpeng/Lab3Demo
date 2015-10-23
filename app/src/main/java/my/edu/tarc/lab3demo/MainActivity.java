@@ -1,6 +1,6 @@
 package my.edu.tarc.lab3demo;
 
-//Created by Miss Lee and chicken and duck and lasdsads
+//Created by Miss Lee
 //Date : 23/10/2015
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
